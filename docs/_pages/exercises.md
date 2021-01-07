@@ -12,12 +12,11 @@ feature_row:
   - image_path: /assets/images/exercises/follow_line/formula1_teaser.png
     alt: "Follow Line Formula1"
     title: "Follow Line"
-    excerpt: "Complete a lap following the line painted on the racing circuit. v2.3"
+    excerpt: "Complete a lap following the line painted on the racing circuit. "
     url: "/exercises/AutonomousCars/follow_line/"
     btn_class: "btn--success"
-    btn_label: "Active"
-    btn_class: "btn"
     btn_label: "2.3"
+    label: "2.3"
     
   - image_path: /assets/images/exercises/obstacle_avoidance/obstacle_avoidance_teaser_2.png
     alt: "Obstacle avoidance"
