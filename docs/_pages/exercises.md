@@ -16,7 +16,7 @@ feature_row:
     url: "/exercises/AutonomousCars/follow_line/"
     btn_class: "btn--success"
     btn_label: "2.3"
-    label: "2.3"
+    {: title="Blockquote title"}
     
   - image_path: /assets/images/exercises/obstacle_avoidance/obstacle_avoidance_teaser_2.png
     alt: "Obstacle avoidance"
