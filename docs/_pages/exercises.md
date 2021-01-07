@@ -11,12 +11,12 @@ classes: wide
 feature_row:
   - image_path: /assets/images/exercises/follow_line/formula1_teaser.png
     alt: "Follow Line Formula1"
-    title: "Follow Line"
+    title: "Follow Line <h5>v 2.3</h5>"
     excerpt: "Complete a lap following the line painted on the racing circuit. "
     url: "/exercises/AutonomousCars/follow_line/"
     btn_class: "btn--success"
-    btn_label: "2.3"
-    {: title="Blockquote title"}
+    btn_label: "Active"
+    
     
   - image_path: /assets/images/exercises/obstacle_avoidance/obstacle_avoidance_teaser_2.png
     alt: "Obstacle avoidance"
