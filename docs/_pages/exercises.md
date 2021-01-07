@@ -11,7 +11,7 @@ classes: wide
 feature_row:
   - image_path: /assets/images/exercises/follow_line/formula1_teaser.png
     alt: "Follow Line Formula1"
-    title: "Follow Line <p style="font-size:10px; color:grey;">v 2.3</p>"
+    title: "Follow Line <p style='font-size:10px; color:grey;'>v 2.3</p>"
     excerpt: "Complete a lap following the line painted on the racing circuit. "
     url: "/exercises/AutonomousCars/follow_line/"
     btn_class: "btn--success"
