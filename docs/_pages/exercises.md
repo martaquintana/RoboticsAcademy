@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Complete a lap following the line painted on the racing circuit."
     url: "/exercises/AutonomousCars/follow_line/"
     btn_class: "btn--success"
-    btn_label: "2.3"
+    btn_label: "Active"
     
   - image_path: /assets/images/exercises/obstacle_avoidance/obstacle_avoidance_teaser_2.png
     alt: "Obstacle avoidance"
