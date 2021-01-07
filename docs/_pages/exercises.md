@@ -10,6 +10,7 @@ classes: wide
 
 feature_row:
   - image_path: /assets/images/exercises/follow_line/formula1_teaser.png
+    caption: "v 2.3 Photo credit: [**Unsplash**](https://unsplash.com)"
     alt: "Follow Line Formula1"
     title: "Follow Line"
     excerpt: "Complete a lap following the line painted on the racing circuit."
